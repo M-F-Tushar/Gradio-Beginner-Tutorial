@@ -1,4 +1,4 @@
-# Lesson 2: Adding User Input to Your Gradio App
+# Lesson 2: Adding User Input to Your Gradio App 
 
 ## Friendly Introduction
 
