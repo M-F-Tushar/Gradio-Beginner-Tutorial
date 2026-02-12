@@ -1,6 +1,6 @@
 # Lesson 19: Adding Live Interactivity to Your Gradio App 
 
-## Friendly Introduction
+## Friendly Introduction 
 
 Welcome to Lesson 19! Now you’ll learn how to make your Gradio app update outputs live, without needing to press a button. Live interactivity makes your app feel fast and responsive.
 
