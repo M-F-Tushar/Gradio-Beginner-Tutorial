@@ -2,7 +2,7 @@
 
 import gradio as gr  # Bring in Gradio tools
 
-def reverse_text(text):
+def reverse_text(text): 
     return text[::-1]
 
 def uppercase_text(text):
