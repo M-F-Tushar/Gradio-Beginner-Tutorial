@@ -1,4 +1,4 @@
-# Lesson 1: Your First Gradio App 
+# Lesson 1: Your First Gradio App  
  
 ## Friendly Introduction
 
