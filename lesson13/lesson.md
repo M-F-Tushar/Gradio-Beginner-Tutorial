@@ -14,7 +14,7 @@ Imagine a robot that can look at a picture of a number and guess what number it 
 
 ## Step-by-Step Explanation
 
-### Step 1: What is a Real Machine Learning Model?
+### Step 1: What is a Real Machine Learning Model? 
 A real model learns from lots of examples. For this lesson, we’ll use a model that can recognize handwritten digits (numbers from 0 to 9).
 
 ### Step 2: Use a Pretrained Model
