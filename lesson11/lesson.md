@@ -1,4 +1,4 @@
-# Lesson 11: Customizing Your Gradio App with Themes 
+# Lesson 11: Customizing Your Gradio App with Themes  
 
 ## Friendly Introduction
 
