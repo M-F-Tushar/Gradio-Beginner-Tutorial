@@ -3,7 +3,7 @@
 import gradio as gr  # Bring in Gradio tools
 
 def greet(name):
-    # This function takes the user's name and returns a greeting
+    # This function takes the user's name and returns a greeting 
     return f"Hello, {name}!"
 
 # Create the app with a text input box
