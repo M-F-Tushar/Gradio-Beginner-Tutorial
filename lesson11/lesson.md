@@ -7,7 +7,7 @@ Welcome to Lesson 11! Now that you know how to build and organize Gradio apps, l
 ## What You Will Learn
 - How to use Gradio themes
 - How to change the look of your app
-- How to make your app stand out
+- How to make your app stand out 
 
 ## Real-Life Analogy
 Think of your app like a room. You can paint the walls, change the furniture, and add decorations to make it feel special. Themes are like paint and decorations for your app!
