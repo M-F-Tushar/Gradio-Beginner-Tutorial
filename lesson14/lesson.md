@@ -6,7 +6,7 @@ Welcome to Lesson 14! Now you’ll learn how to make your Gradio app available t
 
 ## What You Will Learn 
 - What deployment means 
-- How to deploy your Gradio app for free
+- How to deploy your Gradio app for free 
 - How to share your app with others
 
 ## Real-Life Analogy
