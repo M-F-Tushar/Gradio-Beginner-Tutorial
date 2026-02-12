@@ -16,5 +16,5 @@ app = gr.Interface(
     description="Type your name and see how easy it is to share your app online!"
 )
 
-# Start the app
+# Start the app 
 app.launch()
