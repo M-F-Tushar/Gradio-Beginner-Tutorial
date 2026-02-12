@@ -1,4 +1,4 @@
-# Lesson 19: Adding Live Interactivity to Your Gradio App
+# Lesson 19: Adding Live Interactivity to Your Gradio App 
 
 ## Friendly Introduction
 
