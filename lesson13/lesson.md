@@ -1,5 +1,5 @@
 # Lesson 13: Using a Real Machine Learning Model in Gradio   
-
+ 
 ## Friendly Introduction
 
 Welcome to Lesson 13! Now you’ll learn how to use a real machine learning model in your Gradio app. We’ll use a simple model that can recognize numbers written by hand (called digits). Don’t worry—we’ll explain everything step by step.
