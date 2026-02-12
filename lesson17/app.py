@@ -11,7 +11,7 @@ def save_name(name):
 # Create the app with a text input
 app = gr.Interface(
     fn=save_name, 
-    inputs=gr.Textbox(label="Type your name"),
+    inputs=gr.Textbox(label="Type your name"), 
     outputs="text",
     title="Save Name App",
     description="Type your name and it will be saved to a file!"
