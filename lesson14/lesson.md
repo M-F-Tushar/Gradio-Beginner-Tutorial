@@ -1,4 +1,4 @@
-# Lesson 14: Deploying Your Gradio App Online
+# Lesson 14: Deploying Your Gradio App Online 
 
 ## Friendly Introduction
 
