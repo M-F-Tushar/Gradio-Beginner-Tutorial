@@ -7,7 +7,7 @@ def greet(name):
     return f"Hello, {name}!"
 
 # Create the app with a text input box
-app = gr.Interface(fn=greet, inputs="text", outputs="text")
+app = gr.Interface(fn=greet, inputs="text", outputs="text") 
 
 # Start the app
 app.launch()
