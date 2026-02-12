@@ -1,6 +1,6 @@
 # Lesson 12: Connecting Gradio to a Machine Learning Model 
 
-## Friendly Introduction
+## Friendly Introduction 
 
 Welcome to Lesson 12! Now you’ll learn how to connect Gradio to a machine learning model. Don’t worry if you don’t know what machine learning is—we’ll explain everything step by step.
 
