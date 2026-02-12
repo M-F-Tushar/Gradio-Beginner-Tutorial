@@ -9,7 +9,7 @@ def reverse_text(text):
 # Create the app with a text input and text output
 app = gr.Interface(
     fn=reverse_text,
-    inputs=gr.Textbox(label="Type something"),
+    inputs=gr.Textbox(label="Type something"), 
     outputs="text",
     title="Reverse Text App",
     description="Type any text and see it backwards!"
