@@ -1,4 +1,4 @@
-# Lesson 12: Connecting Gradio to a Machine Learning Model
+# Lesson 12: Connecting Gradio to a Machine Learning Model 
 
 ## Friendly Introduction
 
