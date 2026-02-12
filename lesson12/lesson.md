@@ -6,7 +6,7 @@ Welcome to Lesson 12! Now you’ll learn how to connect Gradio to a machine lear
 
 ## What You Will Learn
 - What a machine learning model is
-- How to use a simple model in your app
+- How to use a simple model in your app 
 - How Gradio can show model results
 
 ## Real-Life Analogy
