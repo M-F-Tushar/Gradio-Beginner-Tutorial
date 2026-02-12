@@ -1,3 +1,17 @@
+# This is your first Gradio app!
+# Don't worry if this looks strange. We'll explain everything.
+
+import gradio as gr  # Bring in Gradio tools
+
+def say_hello():
+    # This function returns a greeting
+    return "Hello, World!"
+
+# Create the app using Gradio
+app = gr.Interface(fn=say_hello, inputs=[], outputs="text")
+
+# Start the app
+app.launch()
 # This line brings in Gradio so we can use it in our code
 # "import" means "get this tool for me"
 # "as gr" means "let me call it 'gr' for short"

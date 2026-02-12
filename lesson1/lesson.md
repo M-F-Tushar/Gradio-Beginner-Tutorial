@@ -1,3 +1,53 @@
+# Lesson 1: Your First Gradio App
+
+## Friendly Introduction
+
+Welcome! Today, you will create your very first computer program. Don’t worry if you’ve never written code before. We’ll go step by step, using simple words and examples.
+
+## What You Will Learn
+- What Gradio is
+- How to make a simple app that says hello
+- How to run your app
+
+## Real-Life Analogy
+Imagine Gradio like a magic window. You tell it what you want, and it shows it to you. Just like ordering food at a restaurant: you ask for something, and it appears!
+
+## Step-by-Step Explanation
+
+### Step 1: What is Gradio?
+Gradio is a tool that helps you make apps that anyone can use. You don’t need to be an expert. It’s like building with LEGO blocks—easy and fun!
+
+### Step 2: Writing Your First App
+Let’s write a tiny app that says "Hello, World!". This is a tradition in programming. It means your app is working!
+
+### Full Code
+
+```python
+import gradio as gr
+
+def say_hello():
+   return "Hello, World!"
+
+app = gr.Interface(fn=say_hello, inputs=[], outputs="text")
+app.launch()
+```
+
+### Explanation of the Code Line by Line
+
+- import gradio as gr: This tells the computer to use Gradio. "import" means bring in tools.
+- def say_hello(): This creates a function. A function is like a recipe. It tells the computer what to do.
+- return "Hello, World!": This is what the function gives back. It’s like the result of your recipe.
+- app = gr.Interface(fn=say_hello, inputs=[], outputs="text"): This builds your app. "fn" means the function to run. "inputs" means what the user gives. "outputs" means what the app shows.
+- app.launch(): This starts your app. Like turning on a light switch.
+
+### What Happens When We Run It
+When you run this code, a small window will pop up in your web browser. It will show "Hello, World!". You made your first app!
+
+Congratulations! You are now a programmer. 🎉
+
+---
+
+In the next lesson, we’ll make the app do more things. For now, try running your app and see what happens!
 # Welcome to Your First Gradio Lesson! 🎉
 
 Hey there! Welcome, and thank you for taking the first step into the world of creating apps. Don't worry if you've never coded before—this tutorial is designed just for you. We'll go step by step, and I promise we'll make this fun and easy!
