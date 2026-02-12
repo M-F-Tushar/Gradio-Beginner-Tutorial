@@ -1,6 +1,6 @@
 # This app uses a custom function to reverse any text you type!
 
-import gradio as gr  # Bring in Gradio tools
+import gradio as gr  # Bring in Gradio tools 
 
 def reverse_text(text):
     # Reverse the text
