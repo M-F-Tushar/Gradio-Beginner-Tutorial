@@ -3,7 +3,7 @@
 import gradio as gr  # Bring in Gradio tools
 
 def add_numbers(a, b):
-    return f"The sum is: {a + b}"
+    return f"The sum is: {a + b}" 
 
 # Create the app with two number inputs and live updates
 app = gr.Interface(
