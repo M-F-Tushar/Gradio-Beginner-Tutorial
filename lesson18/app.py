@@ -6,7 +6,7 @@ import gradio as gr  # Bring in Gradio tools
 def greet(name, age):
     return f"Hello, {name}! You are {age} years old."
 
-with gr.Blocks() as demo:
+with gr.Blocks() as demo: 
     gr.Markdown("# Custom Layout Greeting App")
     with gr.Row():
         name_input = gr.Textbox(label="Your Name")
