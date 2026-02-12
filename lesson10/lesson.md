@@ -1,4 +1,4 @@
-# Lesson 10: Using Advanced Features in Gradio  
+# Lesson 10: Using Advanced Features in Gradio   
 
 ## Friendly Introduction
 
