@@ -1,4 +1,4 @@
-# This app uses a custom function to reverse any text you type!
+# This app uses a custom function to reverse any text you type! 
 
 import gradio as gr  # Bring in Gradio tools 
 
