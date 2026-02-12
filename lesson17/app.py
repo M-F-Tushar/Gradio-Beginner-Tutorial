@@ -6,7 +6,7 @@ def save_name(name):
     # Save the name to a file
     with open("names.txt", "a") as f:
         f.write(name + "\n")
-    return f"Thanks, {name}! Your name has been saved."
+    return f"Thanks, {name}! Your name has been saved." 
 
 # Create the app with a text input
 app = gr.Interface(
