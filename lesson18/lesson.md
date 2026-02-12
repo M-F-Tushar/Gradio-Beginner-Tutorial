@@ -1,5 +1,5 @@
 # Lesson 18: Using Custom Layouts in Your Gradio App
-
+ 
 ## Friendly Introduction
 
 Welcome to Lesson 18! Now you’ll learn how to use custom layouts in your Gradio app. Layouts help you organize your app so it looks neat and is easy to use. You can arrange buttons, inputs, and outputs in different ways.
