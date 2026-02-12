@@ -1,4 +1,4 @@
-# Lesson 13: Using a Real Machine Learning Model in Gradio
+# Lesson 13: Using a Real Machine Learning Model in Gradio 
 
 ## Friendly Introduction
 
