@@ -2,7 +2,7 @@
 
 import gradio as gr  # Bring in Gradio tools
 
-def save_name(name):
+def save_name(name): 
     # Save the name to a file
     with open("names.txt", "a") as f:
         f.write(name + "\n")
