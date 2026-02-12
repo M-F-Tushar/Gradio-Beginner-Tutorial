@@ -4,8 +4,8 @@
 
 Welcome to Lesson 14! Now you’ll learn how to make your Gradio app available to anyone in the world. Deploying means putting your app online so others can use it from their computers or phones.
 
-## What You Will Learn
-- What deployment means
+## What You Will Learn 
+- What deployment means 
 - How to deploy your Gradio app for free
 - How to share your app with others
 
