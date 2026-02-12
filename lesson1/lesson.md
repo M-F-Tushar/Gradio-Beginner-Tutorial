@@ -1,5 +1,5 @@
 # Lesson 1: Your First Gradio App 
-
+ 
 ## Friendly Introduction
 
 Welcome! Today, you will create your very first computer program. Don’t worry if you’ve never written code before. We’ll go step by step, using simple words and examples.
