@@ -1,4 +1,4 @@
-# This app has two pages: one for text files and one for images!
+# This app has two pages: one for text files and one for images! 
 # It uses Gradio Tabs for organization.
 
 import gradio as gr  # Bring in Gradio tools
