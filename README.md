@@ -1,6 +1,6 @@
 # Gradio Beginner Tutorial
 
-Welcome to the Gradio Beginner Tutorial! This course is designed for absolute beginners, guiding you step-by-step to build interactive apps using Gradio. Each lesson is simple, friendly, and builds on the previous one. 
+Welcome to the Gradio Beginner Tutorial! This course is designed for absolute beginners, guiding you step-by-step to build interactive apps using Gradio. Each lesson is simple, friendly, and builds on the previous one.  
 
 ## Course Structure
 
